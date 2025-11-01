@@ -40,7 +40,7 @@
 - 内容校对与逻辑审查
 - 内容建议
 
-请通过issue或pull requests联系作者（如需匿名，请Discord联系：08394）
+请通过issue或pull requests联系作者
 
 ## 免责声明
 
