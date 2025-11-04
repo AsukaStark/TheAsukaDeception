@@ -53,4 +53,4 @@
 ---
 
 > **她可以惺惺作态理屈词穷假装受害者控制一时的舆论，但无法永远逃避真相。**
-> **若本项目对您有所助益，您可在力所能及的范围内，通过以下链接支持作者的持续创作与维护： buymeacoffee.com/nobita_orz**
+> **若本项目对您有所助益，您可在力所能及的范围内，通过以下链接支持作者的持续创作与维护： [buymeacoffee.com/nobita_orz](https://buymeacoffee.com/nobita_orz)**
